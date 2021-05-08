@@ -1,0 +1,5 @@
+package com.capgemni.sampleapp.model;
+
+public class User {
+
+}
